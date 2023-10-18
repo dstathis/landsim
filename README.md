@@ -1,2 +1,2 @@
-# landsim
-Simulate Drawing Lands
+# Landsim
+Simulate drawing lands.
